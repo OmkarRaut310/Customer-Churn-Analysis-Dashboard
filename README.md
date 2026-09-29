@@ -56,5 +56,7 @@ This project analyzes **customer churn patterns** using a cleaned dataset and an
 - **Excel** for quick data exploration
 
 
-  
+
+##Dashboard Screenshot Look Like
+(https://github.com/OmkarRaut310/Customer-Churn-Analysis-Dashboard/blob/main/Customer-Churn-Analysis-Dashboard.png)
 
